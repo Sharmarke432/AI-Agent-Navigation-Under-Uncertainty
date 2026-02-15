@@ -1,6 +1,6 @@
 # Navigation Under Uncertainty – Group M
 
-Minimal setup guide for the Group M navigation under uncertainty project. [file:1]
+Minimal setup guide for the Group M navigation under uncertainty project.
 
 ## 1. Clone the repository
 
