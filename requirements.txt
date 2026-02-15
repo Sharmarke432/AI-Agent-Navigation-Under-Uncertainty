@@ -1,0 +1,10 @@
+gymnasium
+numpy
+matplotlib
+seaborn
+networkx
+scipy
+pytest
+black
+ruff
+pre-commit
