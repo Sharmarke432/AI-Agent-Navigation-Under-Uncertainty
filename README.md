@@ -1,5 +1,3 @@
-# AI-Agent-Navigation-Under-Uncertainty
-
 # Navigation Under Uncertainty – Group M
 
 Minimal setup guide for the Group M navigation under uncertainty project. [file:1]
