@@ -1,1 +1,31 @@
-# AI-Agent-Navigation-Under-Uncertainty
+# Navigation Under Uncertainty – Group M
+
+Minimal setup guide for the Group M navigation under uncertainty project.
+
+## 1. Clone the repository
+
+Choose a directory on your machine (e.g. `~/Documents/uni-projects`) and run:
+
+```bash
+cd ~/Documents/uni-projects
+git clone https://github.com/Sharmarke432/AI-Agent-Navigation-Under-Uncertainty.git
+cd AI-Agent-Navigation-Under-Uncertainty
+```
+
+## 2. Create a virtual environment
+
+```bash
+python -m venv .venv
+
+# macOS / Linux
+source venv/bin/activate
+
+# Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+```
+
+## 3. Install required libraries
+
+```bash
+pip install -r requirements.txt
+```
